@@ -1,0 +1,32 @@
+# Frame Design — Twisted Circular Frame
+
+**Date:** June 2026  
+**Software:** Onshape  
+**Tools used:** Sweep, Circular Pattern, Transform, Boolean
+
+## Design Overview
+Designed a twisted circular frame structure using a 
+combination of sweep and patterning techniques in Onshape. 
+The frame elements are arranged radially using Circular 
+Pattern, with Transform applied to create the twisting 
+effect, and Boolean used to merge the individual frame 
+members into a single solid body.
+
+## Feature breakdown
+| Feature | Purpose |
+|---|---|
+| Sweep | Extrude a profile along a curved path to form each frame member |
+| Circular Pattern | Repeat the swept member radially around a central axis |
+| Transform | Rotate/offset pattern instances to create the twist effect |
+| Boolean | Merge all frame members into one unified solid |
+
+## Skills demonstrated
+- Radial patterning for symmetric structural frames
+- Combining Sweep with Transform for twisted geometries
+- Boolean operations to unify multi-body designs
+- Structural frame design workflow in Onshape
+
+## Files
+- `617-Frame_Design-Twisted_Circular_Frame.png` — Rendered view
+- `617-Frame_Design-Twisted_Circular_Frame.step` — 3D CAD file
+- `617-Frame_Design-Twisted_Circular_Frame.mp4` — Walkthrough video
