@@ -1,0 +1,27 @@
+Part Model Practice — Extrude, Fillet, Chamfer, Mirror
+
+Date: June 2026  
+Software: Onshape  
+Tools used: Extrude (Add), Extrude (Remove), Fillet, Chamfer, Mirror
+
+Design Overview
+A part modeling practice exercise focused on core solid modeling fundamentals. The base geometry was built using Extrude (Add) to create material and Extrude (Remove) to cut features such as holes or pockets. Fillet was applied to round sharp edges, Chamfer to create angled edge breaks, and Mirror was used to duplicate features symmetrically across the part.
+
+Feature breakdown
+| Feature          | Purpose |
+| Extrude (Add)    | Build the base solid material |
+| Extrude (Remove) | Cut pockets/holes into the solid |
+| Fillet           | Round sharp edges for stress relief and safety |
+| Chamfer          | Create angled edge breaks for assembly ease |
+| Mirror           | Duplicate features symmetrically |
+
+Skills demonstrated
+Core solid modeling workflow (Add/Remove material)
+Edge treatment techniques (Fillet vs Chamfer — when to use each)
+Symmetric feature design using Mirror
+Foundation skills used in almost all mechanical part design
+
+Files
+622-Part_Model_Practice.png — Rendered view
+622-Part_Model_Practice.step — 3D CAD file
+622-Part_Model_Practice.mp4 — Design walkthrough video
