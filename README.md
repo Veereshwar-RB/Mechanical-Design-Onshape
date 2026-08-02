@@ -6,7 +6,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
 A daily-practice repository documenting my CAD journey in Onshape — 
-tracking model complexity, design consistency, and skill progression 
+tracking model complexity., design consistency, and skill progression 
 across Part Design, Surface Modeling, Frame Design, and Mechanism Assembly.
 
 > **About me:** Final-year Mechanical Engineering student at SKCET, Coimbatore.  
